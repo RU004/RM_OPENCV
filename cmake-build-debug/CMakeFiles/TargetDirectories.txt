@@ -1,0 +1,3 @@
+/home/ru/Desktop/RM_cv/cmake-build-debug/CMakeFiles/RM_cv.dir
+/home/ru/Desktop/RM_cv/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ru/Desktop/RM_cv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
